@@ -24,7 +24,7 @@ This repository is an extensible collection of robotic mission adaptation exempl
 
     Claudio Menghi (claudio.menghi@uni.lu)
 
-5. The first release of this repository, including 14 exemplars has been accepted at [SEAMS21](https://conf.researchr.org/home/seams-2021). In order to cite our work, please use the entry below (to be updated as soon as the proceedings are published):
+5. The [first release](https://github.com/Askarpour/RoboMAX/releases) of this repository, including 14 exemplars has been accepted at [SEAMS21](https://conf.researchr.org/home/seams-2021). In order to cite our work, please use the entry below (to be updated as soon as the proceedings are published):
 
 @inproceedings{robomax,
 
