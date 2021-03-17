@@ -25,11 +25,15 @@ Claudio Menghi (claudio.menghi@uni.lu)
 5. The first release of this repository, including 14 exemplars has been accepted at [SEAMS21](https://conf.researchr.org/home/seams-2021). In order to cite our work, please use the entry below (to be updated as soon as the proceedings are published):
 
 @inproceedings{robomax,
+
   author    = {Mehrnoosh Askarpour, Christos	Tsigkanos, Claudio Menghi, Radu Calinescu, Patrizio	Pelliccione, Sergio	Garcia, Ricardo Caldas, Tim J von Oertzen, Manuel Wimmer, Luca Berardinelli, Matteo	Rossi, Marcello M. Bersani, Gabriel S. Rodrigues},
+  
   title     = {RoboMax: Robotic Mission Adaptation eXemplars},
+  
   booktitle = {{SEAMS} '21: {IEEE/ACM} 16th International Symposium on Software Engineering
                for Adaptive and Self-Managing Systems, Virtual,
                17 May - 24 May, 2021},
+               
   year      = {2021},
 }
 
