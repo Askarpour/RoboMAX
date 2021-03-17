@@ -18,11 +18,11 @@ This repository is an extensible collection of robotic mission adaptation exempl
 
 4. Please do not hesitate to contact us if you need help with anything:
 
-Mehrnoosh Askarpour (askarpom@mcmaster.ca)
+    Mehrnoosh Askarpour (askarpom@mcmaster.ca)
 
-Christos	Tsigkanos (christos.tsigkanos@dsg.tuwien.ac.at)
+    Christos	Tsigkanos (christos.tsigkanos@dsg.tuwien.ac.at)
 
-Claudio Menghi (claudio.menghi@uni.lu)
+    Claudio Menghi (claudio.menghi@uni.lu)
 
 5. The first release of this repository, including 14 exemplars has been accepted at [SEAMS21](https://conf.researchr.org/home/seams-2021). In order to cite our work, please use the entry below (to be updated as soon as the proceedings are published):
 
