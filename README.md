@@ -4,7 +4,7 @@ Robotic Mission Adaptation eXemplars
 
 This repository is an extensible collection of robotic mission adaptation exemplars to capture key sources of uncertainty, adaptation concerns, and other distinguishing characteristics of such applications.
 
-# Methodology
+## Methodology
 
 1. If you are a robotic application stakeholder (e.g., researchers, developers, op erators, and end-users) and would like to contribute to this repository please fill the questionnaire below:
 
